@@ -9,3 +9,5 @@ This dashboard was created in Tableau with the aim to analyze sales data for Awe
 
 By developing country-specific filters and creating well-structured, visually compelling charts, the goal is to offer a clear and interactive experience for the users. This allows the stakeholders to drill down into sales data and extract meaningful insights that can guide strategies and help in decision making.
 
+
+![AwesomeChocolates_Tableau](https://github.com/user-attachments/assets/25a079bd-6d3f-4116-87bb-8fd1a523cdef)
